@@ -1,3 +1,3 @@
-# Kokoa clone 2022 update
+# HTML & CSS clone coding 2022
 
-CSS got so much better!
+web clone coding to HTML / CSS
